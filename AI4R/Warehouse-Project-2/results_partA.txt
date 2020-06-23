@@ -1,0 +1,43 @@
+PART A TEST CASE RESULTSPART A TEST CASE RESULTS
+-----------
+Test Case 1
+cost: 23.00  (expected min 23.00)
+credit: 1.00PART A TEST CASE RESULTS
+-----------
+Test Case 2
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 3
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 4
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 5
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 6
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 7
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 8
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 9
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0PART A TEST CASE RESULTS
+-----------
+Test Case 10
+Failed: Exception('task not accomplished: not all boxes delivered',)
+credit: 0
+-----------
+Total Credit: 1.00

@@ -1,0 +1,43 @@
+PART B TEST CASE RESULTS
+-----------
+Test Case 1
+cost: 432.64  (expected min 38.00)
+credit: 0.09
+-----------
+Test Case 10
+cost: inf  (expected min 42.87)
+credit: 0.00
+-----------
+Test Case 2
+cost: 778.56  (expected min 56.00)
+credit: 0.07
+-----------
+Test Case 3
+cost: 643.52  (expected min 43.00)
+credit: 0.07
+-----------
+Test Case 4
+cost: 373.21  (expected min 30.00)
+credit: 0.08
+-----------
+Test Case 5
+cost: 799.21  (expected min 50.00)
+credit: 0.06
+-----------
+Test Case 6
+cost: inf  (expected min 61.50)
+credit: 0.00
+-----------
+Test Case 7
+cost: inf  (expected min 29.49)
+credit: 0.00
+-----------
+Test Case 8
+cost: 64.08  (expected min 16.00)
+credit: 0.25
+-----------
+Test Case 9
+Failed: Test aborted due to timeout. Test was expected to finish in fewer than 5 second(s).
+credit: 0
+-----------
+Total Credit: 0.62
