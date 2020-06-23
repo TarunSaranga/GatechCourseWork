@@ -1,0 +1,23 @@
+PART A TEST CASE RESULTS
+-----------
+Test Case 1
+  Expected Location: (-0.0034423199452966458, 0.996915576187619)
+  SLAM Location: (0.01324808510470632, 0.9879971487622612)
+  Credit: 100%
+-----------
+Test Case 2
+  Expected Location: (1.9819499533742766, 0.9986284244281651)
+  SLAM Location: (1.9827610933492874, 0.9948004072021384)
+  Credit: 100%
+-----------
+Test Case 3
+  Expected Location: (1.0076925842893845, 0.0036828326314093385)
+  SLAM Location: (1.000837229950534, -0.07391367900928003)
+  Credit: 100%
+-----------
+Test Case 4
+  Expected Location: (-1.0523193490684806, -0.05619835650059368)
+  SLAM Location: (-1.0632225831850945, -0.08031439032847132)
+  Credit: 100%
+-----------
+Part A Credit: 33.00

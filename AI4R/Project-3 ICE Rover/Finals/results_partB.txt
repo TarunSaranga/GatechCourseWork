@@ -1,0 +1,7 @@
+PART B TEST CASE RESULTS
+-----------
+Test Case 7
+  Failed: Test aborted due to timeout. Test was expected to finish in fewer than 5 second(s).
+  Credit: 0.0
+-----------
+Part B Credit: 0.00
