@@ -1,0 +1,4 @@
+Q1: Yes
+Q2: No
+Q3: A* MAY FIND A SUBOPTIMAL PATH
+Q4: 4, 3, 3, 2, 2, 1 (Left to Right)
